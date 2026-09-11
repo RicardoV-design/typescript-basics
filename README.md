@@ -27,5 +27,5 @@
     rating: number;    
     description: string;  
     isVerifiedPurchase: number;  
-    createdAt: Date;
+    createdAt: Date;  
 }
